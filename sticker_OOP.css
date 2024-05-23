@@ -1,0 +1,11 @@
+
+.sticker {
+
+	box-sizing: border-box;
+
+	position: absolute;
+
+	padding: 10px;
+
+	font: italic 15px Arial;
+}
